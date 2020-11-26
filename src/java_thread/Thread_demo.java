@@ -239,6 +239,10 @@ public class Thread_demo {
 		
 		tt1.join();
 		tt2.join();
+	
+		
+		
+		
 		
 		
 		System.out.println("count :: "+ c.counter);
